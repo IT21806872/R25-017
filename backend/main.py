@@ -931,3 +931,4 @@ if __name__ == "__main__":
 # Commit 5: Update API response format
 # Commit 6: Fix bug in login endpoint
 # Commit 7: Refactor database models
+# Commit 8: Add logging functionality
