@@ -949,3 +949,4 @@ if __name__ == "__main__":
 # Commit 23: Refactor utils module
 # Commit 24: Add config management system
 # Commit 25: Enhance logging for debugging
+# Commit 26: Add role-based access control
