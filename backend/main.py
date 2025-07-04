@@ -940,3 +940,4 @@ if __name__ == "__main__":
 # Commit 14: Add support for environment variables
 # Commit 15: Integrate Flask-CORS
 # Commit 16: Add session management logic
+# Commit 17: Fix typo in API documentation
