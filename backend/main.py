@@ -925,3 +925,4 @@ def get_image(filename):
 if __name__ == "__main__":
     app.run(host="0.0.0.0", port=1111)
 # Commit 1: Initialize backend structure
+# Commit 2: Add database connection setup
