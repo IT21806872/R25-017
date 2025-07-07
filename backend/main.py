@@ -928,3 +928,4 @@ if __name__ == "__main__":
 # Commit 2: Add database connection setup
 # Commit 3: Implement user authentication routes
 # Commit 4: Add error handling middleware
+# Commit 5: Update API response format
