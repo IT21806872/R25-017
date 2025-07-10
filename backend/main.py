@@ -960,3 +960,4 @@ if __name__ == "__main__":
 # Commit 34: Implement forgot password endpoint
 # Commit 35: Add pagination to user list API
 # Commit 36: Refactor routes for modularization
+# Commit 37: Add performance monitoring script
