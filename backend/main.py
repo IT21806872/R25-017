@@ -955,3 +955,4 @@ if __name__ == "__main__":
 # Commit 29: Add user profile update endpoint
 # Commit 30: Improve error responses
 # Commit 31: Update database schema
+# Commit 32: Fix import error in main.py
