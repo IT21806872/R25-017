@@ -941,3 +941,4 @@ if __name__ == "__main__":
 # Commit 15: Integrate Flask-CORS
 # Commit 16: Add session management logic
 # Commit 17: Fix typo in API documentation
+# Commit 18: Improve backend folder structure
