@@ -948,3 +948,4 @@ if __name__ == "__main__":
 # Commit 22: Fix issue with JWT expiry
 # Commit 23: Refactor utils module
 # Commit 24: Add config management system
+# Commit 25: Enhance logging for debugging
