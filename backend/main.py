@@ -927,3 +927,4 @@ if __name__ == "__main__":
 # Commit 1: Initialize backend structure
 # Commit 2: Add database connection setup
 # Commit 3: Implement user authentication routes
+# Commit 4: Add error handling middleware
