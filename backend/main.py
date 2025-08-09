@@ -953,3 +953,4 @@ if __name__ == "__main__":
 # Commit 27: Implement admin dashboard backend
 # Commit 28: Fix data serialization issue
 # Commit 29: Add user profile update endpoint
+# Commit 30: Improve error responses
