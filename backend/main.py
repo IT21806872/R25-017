@@ -954,3 +954,4 @@ if __name__ == "__main__":
 # Commit 28: Fix data serialization issue
 # Commit 29: Add user profile update endpoint
 # Commit 30: Improve error responses
+# Commit 31: Update database schema
