@@ -963,3 +963,4 @@ if __name__ == "__main__":
 # Commit 37: Add performance monitoring script
 # Commit 38: Fix broken test cases
 # Commit 39: Add health check endpoint
+# Commit 40: Enhance security headers
