@@ -966,3 +966,4 @@ if __name__ == "__main__":
 # Commit 40: Enhance security headers
 # Commit 41: Fix edge case in data validation
 # Commit 42: Refactor backend initialization
+# Commit 43: Add webhook handler
