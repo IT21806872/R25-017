@@ -937,3 +937,4 @@ if __name__ == "__main__":
 # Commit 11: Implement token-based authentication
 # Commit 12: Add password hashing
 # Commit 13: Optimize query execution
+# Commit 14: Add support for environment variables
