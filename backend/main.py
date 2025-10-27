@@ -924,53 +924,5 @@ def get_image(filename):
 
 if __name__ == "__main__":
     app.run(host="0.0.0.0", port=1111)
-# Commit 1: Initialize backend structure
-# Commit 2: Add database connection setup
-# Commit 3: Implement user authentication routes
-# Commit 4: Add error handling middleware
-# Commit 5: Update API response format
-# Commit 6: Fix bug in login endpoint
-# Commit 7: Refactor database models
-# Commit 8: Add logging functionality
-# Commit 9: Improve API performance
-# Commit 10: Add unit tests for user module
-# Commit 11: Implement token-based authentication
-# Commit 12: Add password hashing
-# Commit 13: Optimize query execution
-# Commit 14: Add support for environment variables
-# Commit 15: Integrate Flask-CORS
-# Commit 16: Add session management logic
-# Commit 17: Fix typo in API documentation
-# Commit 18: Improve backend folder structure
-# Commit 19: Add new route for analytics
-# Commit 20: Update requirements.txt
-# Commit 21: Add input validation
-# Commit 22: Fix issue with JWT expiry
-# Commit 23: Refactor utils module
-# Commit 24: Add config management system
-# Commit 25: Enhance logging for debugging
-# Commit 26: Add role-based access control
-# Commit 27: Implement admin dashboard backend
-# Commit 28: Fix data serialization issue
-# Commit 29: Add user profile update endpoint
-# Commit 30: Improve error responses
-# Commit 31: Update database schema
-# Commit 32: Fix import error in main.py
-# Commit 33: Add email verification logic
-# Commit 34: Implement forgot password endpoint
-# Commit 35: Add pagination to user list API
-# Commit 36: Refactor routes for modularization
-# Commit 37: Add performance monitoring script
-# Commit 38: Fix broken test cases
-# Commit 39: Add health check endpoint
-# Commit 40: Enhance security headers
-# Commit 41: Fix edge case in data validation
-# Commit 42: Refactor backend initialization
-# Commit 43: Add webhook handler
-# Commit 44: Improve API documentation
-# Commit 45: Fix duplicate data issue
-# Commit 46: Implement analytics report generation
-# Commit 47: Add temporary cache layer
-# Commit 48: Improve logging format
-# Commit 49: Optimize database indexing
-# Commit 50: Final testing and cleanup
+
+#test
